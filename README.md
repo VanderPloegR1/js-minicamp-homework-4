@@ -4,12 +4,12 @@
 ---
 1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
 		
-	* Callback Functions
-	* Closure
-	* arguments array
-	* recursion
-	* prototype
-	* constructors
+	* Callback Functions - this is a set of instructions that tell you to go get another set of instructions and follow them before you finish the original set of instructions. Like a cross reference in a sense.
+	* Closure - this allows JS to look for a variable outside of it's scope to the place the nested function was constructed. Or at a car factory the machines print a code on the cars. The meaning of the code can't be found on the car, but you can go back to where it was constructed and look beyond the machine to themanuals in the factory.
+	* arguments array - this is a collection of settings that are all grouped together.
+	* recursion - This is when your instructions loop in on themselves and tell you to start over again, and again, and again...
+	* prototype - This is like a fill in the blank set of instructions that aren't copied for every person, but everyperson can put their name and information in the blank and carry out the instructions.
+	* constructors - these are like machines that construct cars, They know everything that needs to go into a car and make sure that the options people choose and the name of the car are all paired together.
 
 
 2. Fork and clone this repo.  When you need to commit use the following commands.
